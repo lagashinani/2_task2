@@ -13,12 +13,12 @@ NeuroStartUp — динамически развивающийся старта�
 Вы можете встроить NeuroStartUp в ваши приложения с помощью следующих сниппетов (кусочков) кода.
 
 JavaScript:
-```
+```javascript
 <script src="https://localhost/neuro.sdk.min.js"></script>
 ```
 
 Java (Maven):
-```
+```xml
 <dependency>
   <groupId>neuro</groupId>
   <artifactId>sdk</artifactId>
